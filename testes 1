@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Comtible" content="IE-Chrome">
+        <meta name="viewport" content="width=device-width, inicial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="index2.css"/>
+        <title>Calculo IMC</title>  
+    </head>
+    <body>
+       <div>
+        <h1>CALCULO IMC</h1>
+
+        <h2>Peso (kg)</h2>
+        <input id="peso" type="number" placeholder="digite aqui">
+        
+       </div> 
+    </body>
+</html>
